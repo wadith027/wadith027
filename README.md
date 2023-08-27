@@ -8,13 +8,13 @@
 </div>
 
 
-- 💼 Lecturer at Green University of Bangladesh
+- 💼 **Lecturer** at **Green University of Bangladesh**
 
-- 💻 Full-Stack Developer
+- 💻 **Full-Stack Developer**
 
-- 🌐 Check out my personal website <a href="https://shadman-wadith.vercel.app/" target="_blank">here</a> 
+- 🌐 Check out my personal website <a href="https://shadman-wadith.vercel.app/" target="_blank">**here**</a> 
 
-- 📫 How to reach me **shadmanwadith@gmail.com**
+- 📫 Reach me out at**shadmanwadith@gmail.com**
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
