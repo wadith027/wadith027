@@ -14,7 +14,7 @@
 
 - 🌐 Check out my personal website <a href="https://shadman-wadith.vercel.app/" target="_blank">**here**</a> 
 
-- 📫 Reach me out at**shadmanwadith@gmail.com**
+- 📫 Reach me out at **shadmanwadith@gmail.com**
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
