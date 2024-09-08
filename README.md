@@ -8,7 +8,7 @@
 </div>
 
 
-- 💼 **Lecturer** at **Green University of Bangladesh**
+- 💼 **Lecturer** at **Brac University**
 
 - 💻 **Full-Stack Developer**
 
