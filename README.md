@@ -12,7 +12,7 @@
 
 - 💻 **Full-Stack Developer**
 
-- 🌐 Check out my personal website <a href="https://shadmanwadith.xyz/" target="_blank">**here**</a> 
+- 🌐 Check out my personal website: <a href="https://shadmanwadith.xyz/" target="_blank">**shadmanwadith.xyz**</a> 
 
 - 📫 Reach me out at **shadmanwadith@gmail.com**
 
